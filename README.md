@@ -49,3 +49,7 @@ npm install
 Start the application To start the application, run the below command in the terminal:
 
 npm start
+
+
+
+we also use pm2 
